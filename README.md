@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web dev ,App dev , Machine Learining , Data Analyst , Devops and Gen Ai , Rust developer and Java developer
 - 🌱 I’m currently learning Rust , devops, and Machine Learinig
 - 💞️ I’m looking to collaborate on devops projects
-- 📫 How to reach me Email:monuagrhari854@gmail.com 
+- 📫 How to reach me Email:monuagrhari854@gmail.com , monu.a23@iiits.in
 - 😄 Pronouns: All is well , Do good be good , Plant grow by cultivation and people grow by education
 - ⚡ Fun fact: I am try to be serious but no one takes me
 
